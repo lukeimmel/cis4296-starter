@@ -1,0 +1,4 @@
+Hello! 
+Here is my example file for the git exercise.
+Cheer!
+
